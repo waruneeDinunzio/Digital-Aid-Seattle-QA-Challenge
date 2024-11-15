@@ -1,4 +1,4 @@
-# Random Date Generator QA Testing Project
+# Digital Aid Seattle QA Challenge
 
 ## Project Overview
 This project focuses on the QA testing of a **Random Date Generator** application. The goal of this assessment was to evaluate and validate the functionality, accessibility, stability, and user experience of the application, which generates random dates based on various input parameters. The testing process involved creating comprehensive checklists, identifying bugs, and suggesting improvements to enhance the application's robustness and usability.
